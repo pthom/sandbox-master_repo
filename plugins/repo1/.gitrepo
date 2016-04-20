@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/pthom/sandbox-repo1
+	branch = master
+	commit = 65cf31ff7aed16e99a256c2dcb76adf92bf78770
+	parent = 661657aef93b3577cc682d8e134a688d982d571d
+	cmdver = 0.3.0
