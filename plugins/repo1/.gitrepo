@@ -5,7 +5,7 @@
 ;
 [subrepo]
 	remote = git@github.com:pthom/sandbox-repo1.git
-	branch = master
-	commit = 65cf31ff7aed16e99a256c2dcb76adf92bf78770
-	parent = 661657aef93b3577cc682d8e134a688d982d571d
+	branch = repo1_devbranch
+	commit = 5898202132ffb2a48716cc5b7d974e3cc0ff2f25
+	parent = f0088886f931d7e347cd0424d9bf1bc38bb2013d
 	cmdver = 0.3.0
